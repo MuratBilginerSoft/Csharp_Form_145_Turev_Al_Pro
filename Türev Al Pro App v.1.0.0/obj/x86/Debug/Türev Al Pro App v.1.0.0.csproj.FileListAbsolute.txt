@@ -1,0 +1,7 @@
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\bin\Debug\Türev Al Pro App v.1.0.0.exe
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\bin\Debug\Türev Al Pro App v.1.0.0.pdb
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\obj\x86\Debug\Türev_Al_Pro_App_v._1._0._0.Form1.resources
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\obj\x86\Debug\Türev_Al_Pro_App_v._1._0._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\obj\x86\Debug\Türev Al Pro App v.1.0.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\obj\x86\Debug\Türev Al Pro App v.1.0.0.exe
+C:\Users\mrt_b\Desktop\Türev Al Pro App v.1.0.0\Türev Al Pro App v.1.0.0\obj\x86\Debug\Türev Al Pro App v.1.0.0.pdb
